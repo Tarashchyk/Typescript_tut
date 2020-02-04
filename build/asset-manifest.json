@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/YevhenTarashchyk/TypeScript/static/css/main.bc849963.chunk.css",
+    "main.js": "/YevhenTarashchyk/TypeScript/static/js/main.439abf16.chunk.js",
+    "main.js.map": "/YevhenTarashchyk/TypeScript/static/js/main.439abf16.chunk.js.map",
+    "runtime-main.js": "/YevhenTarashchyk/TypeScript/static/js/runtime-main.bc5e2d21.js",
+    "runtime-main.js.map": "/YevhenTarashchyk/TypeScript/static/js/runtime-main.bc5e2d21.js.map",
+    "static/js/2.9b74128a.chunk.js": "/YevhenTarashchyk/TypeScript/static/js/2.9b74128a.chunk.js",
+    "static/js/2.9b74128a.chunk.js.map": "/YevhenTarashchyk/TypeScript/static/js/2.9b74128a.chunk.js.map",
+    "index.html": "/YevhenTarashchyk/TypeScript/index.html",
+    "precache-manifest.fbd230dd10f96500dbfeaf60eadc5719.js": "/YevhenTarashchyk/TypeScript/precache-manifest.fbd230dd10f96500dbfeaf60eadc5719.js",
+    "service-worker.js": "/YevhenTarashchyk/TypeScript/service-worker.js",
+    "static/css/main.bc849963.chunk.css.map": "/YevhenTarashchyk/TypeScript/static/css/main.bc849963.chunk.css.map",
+    "static/js/2.9b74128a.chunk.js.LICENSE": "/YevhenTarashchyk/TypeScript/static/js/2.9b74128a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc5e2d21.js",
+    "static/js/2.9b74128a.chunk.js",
+    "static/css/main.bc849963.chunk.css",
+    "static/js/main.439abf16.chunk.js"
+  ]
+}
